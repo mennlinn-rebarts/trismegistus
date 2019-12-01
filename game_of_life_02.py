@@ -1,4 +1,4 @@
-##game_of_life.py 0.1 191121
+##game_of_life_02.py 0.2 191201 ##started git hub project made from game_of_life_01.py
 
 import random
 
